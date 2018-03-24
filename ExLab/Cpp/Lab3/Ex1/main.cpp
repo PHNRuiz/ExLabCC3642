@@ -1,3 +1,12 @@
+/**
+ *
+ * autor: Pedro Ruiz
+ * data: 22/3/2018
+ * código matéria: CC3642
+ * 
+ * propósito: criar um objeto de um produto com alguns atributos e instanciá-lo.
+ */
+
 #include <iostream>
 
 #include "Invoice.h"
